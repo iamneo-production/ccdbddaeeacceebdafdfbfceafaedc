@@ -1,4 +1,4 @@
-public package com.example.;
+package com.examly.springapp;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -43,8 +43,5 @@ public class ModelTask {
     String taskStatus;
    
 
-    
-}
- ModelTask {
     
 }
